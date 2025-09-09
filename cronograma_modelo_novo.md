@@ -6,13 +6,13 @@ A Tabelas mostram as atividades planejadas para as apresentações do projeto e 
 ### Etapa 1
 
 #### Tabela 1 - Itens planejados ponto de controle 1.
-### Atividade 1 - Fase: Planejamento do Projeto (01/04 - 13/04)
+### Atividade 1 - Fase: Planejamento do Projeto (02/09 - 09/09)
 
 | Atividade | Início | Fim | Data limite |Autores | Revisores |
 |-----------|--------|-----|-----|---------|-----------|
 | Heatmap | 05/04 | 12/04 | 13/04 | [H3ytt0r62](https://github.com/H3ytt0r62) |[Samuel Felipe Lira de Souza](https://github.com/TerminaKng05)
 | Cronograma |  12/04 | 12/04 |13/04| [Nayra Nery](https://github.com/NayraNery127)  | [Rivadalvo Filho](https://github.com/RivaFilho)
-| Rich Picture | 08/04 | 12/04 |13/04 | [Jadequilin](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7) | [Rivadalvo Filho](https://github.com/RivaFilho)
+| Rich Picture | 05/09 | 8/09 |09/09 | [Jadequilin](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7) | [Rivadalvo Filho](https://github.com/RivaFilho)
 | Lista de sites avaliados | 12/04 | 12/04 |13/04 |  [Rivadalvo Filho](https://github.com/RivaFilho) | [Samuel Felipe Lira de Souza](https://github.com/TerminaKng05)
 | Lista de ferramentas utilizadas | 10/04 | 12/04 |13/04 | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Nayra Nery](https://github.com/NayraNery127)
 | GitPage | 08/04 | 10/04 |13/04 | [Samuel Felipe Lira de Souza](https://github.com/TerminaKng05) | [Jadequilin](https://github.com/Jadequilin)
@@ -26,7 +26,7 @@ A Tabelas mostram as atividades planejadas para as apresentações do projeto e 
 
 ### Etapa 2
 #### Tabela 2 - Itens planejados ponto de controle 2.
-### Atividade 2 - Fase: Perfil do usuário, Aspectos Éticos de Pesquisas com Pessoas, Personas e Análise de tarefas (10/04 - 27/04)
+### Atividade 2 - Fase: Perfil do usuário, Aspectos Éticos de Pesquisas com Pessoas, Personas e Análise de tarefas (10/09 - 30/09)
 
 | Atividade | Início | Fim | Data limite |Autores | Revisores |
 |-----------|--------|-----|---------|---------|-----------|
@@ -50,7 +50,7 @@ A Tabelas mostram as atividades planejadas para as apresentações do projeto e 
 
 ### Etapa 3
 #### Tabela 3 - Itens planejados ponto de controle 3.
-### Atividade 3 - Fase: Desenvolvimento do Projeto e Modelagem de Requisitos (28/04 - 13/05)
+### Atividade 3 - Fase: Desenvolvimento do Projeto e Modelagem de Requisitos (01/10 - 12/10)
 
 
 | Atividade | Início | Fim | Data limite |Autores | Revisores |
@@ -71,7 +71,7 @@ A Tabelas mostram as atividades planejadas para as apresentações do projeto e 
 
 ### Etapa 4
 #### Tabela 4 - Itens planejados ponto de controle 4.
-### Atividade 4 - Fase: Desenvolvimento do Projeto e Modelagem de Requisitos 2 (14/04 - 29/05)
+### Atividade 4 - Fase: Desenvolvimento do Projeto e Modelagem de Requisitos 2 (13/10 - 21/10)
 
 
 | Atividade | Início | Fim | Data limite |Autores | Revisores |
@@ -89,7 +89,7 @@ A Tabelas mostram as atividades planejadas para as apresentações do projeto e 
 
 ### Etapa 5
 #### Tabela 5 - Itens planejados ponto de controle 5.
-### Atividade 5 - Fase: Pós-Rastreabilidade e Gerência (03/06 - 12/06)
+### Atividade 5 - Fase: Pós-Rastreabilidade e Gerência (22/10- 28/10)
 
 | Atividade | Início | Fim | Data limite |Autores | Revisores |
 |-----------|--------|-----|-----|---------|-----------|
@@ -107,7 +107,7 @@ A Tabelas mostram as atividades planejadas para as apresentações do projeto e 
 
 ### Etapa 6
 #### Tabela 6 - Itens planejados Ponto de Controle 6.
-### Atividade 6 - Fase: Análise de Requisitos. Verificação e Validação (13/06 - 26/06)
+### Atividade 6 - Fase: Análise de Requisitos. Verificação e Validação (29/10 - 10/12)
 
 
 | Atividade | Início | Fim | Data limite |Autores | Revisores |
