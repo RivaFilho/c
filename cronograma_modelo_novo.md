@@ -26,7 +26,7 @@ A Tabelas mostram as atividades planejadas para as apresentações do projeto e 
 
 ### Etapa 2
 #### Tabela 2 - Itens planejados ponto de controle 2.
-### Atividade 2 - Fase: Perfil do usuário, Aspectos Éticos de Pesquisas com Pessoas, Personas e Análise de tarefas (10/09 - 30/09)
+### Atividade 2 - Fases: Elicitação de Requisitos – Técnicas e Priorização (10/09 - 30/09)
 
 | Atividade | Início | Fim | Data limite |Autores | Revisores |
 |-----------|--------|-----|---------|---------|-----------|
