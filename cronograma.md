@@ -133,3 +133,19 @@ A Tabelas mostram as atividades planejadas para as apresentações do projeto e 
 | `1.0` | 12/04/2025 | Criação do documento | [Thales Germano](https://github.com/thalesgvl) |[Jose Eduardo](https://github.com/jevprado)|
 | `1.1`  |  12/04/2025 | Atribuição de tarefas | [Thales Germano](https://github.com/thalesgvl) |[Jose Eduardo](https://github.com/jevprado)|
 | `1.2`  | 19/04/2025 | Correções apontadas no cronograma | [Jose Eduardo](https://github.com/jevprado) |[Thales Germano](https://github.com/thalesgvl)|
+
+# Tabela de Atribuição de Atividades
+
+| Atividade                                  | Responsável        | % Atribuído |
+|--------------------------------------------|--------------------|-------------|
+| Planejamento do Projeto                    | Samuel             | 12,5%       |
+| Equipe e Disponibilidade dos Integrantes   | Heyttor            | 12,5%       |
+| Lista de Apps Avaliados e App Selecionado  | Miqueias           | 12,5%       |
+| Cópia do Termo de Uso                      | Luan               | 12,5%       |
+| Ferramentas do Projeto                     | João Pedro         | 12,5%       |
+| Cronograma do Projeto                      | Nayra              | 12,5%       |
+| Rich Picture                               | Heyttor            | 12,5%       |
+| Tabela de Construção dos Integrantes       | Riva               | 12,5%       |
+| ATA                                        | João               | 12,5%       |
+
+**Total: 100%**
